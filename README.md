@@ -2,6 +2,13 @@
 
 A voice-enabled RAG (Retrieval-Augmented Generation) system that allows you to query multiple PDF resumes using natural language and receive spoken responses powered by AI.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/e5c1434e-12b4-420a-8d5c-d7e85ca244d9
+
+
+
 ## Overview
 
 ResumeVoiceRag combines document retrieval, large language models, and text-to-speech technology to create an interactive resume screening assistant. Ask questions about candidates' experience, skills, and background, and get intelligent answers delivered both as text and audio.
