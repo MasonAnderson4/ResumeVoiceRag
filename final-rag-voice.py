@@ -9,7 +9,7 @@ import tempfile
 import os
 
 # ElevenLabs Configuration
-ELEVENLABS_API_KEY = "sk_725d7d05cd76e77d469cd5fc159e4925bf187c15b667fd99"
+ELEVENLABS_API_KEY = ""
 VOICE_ID = "21m00Tcm4TlvDq8ikWAM"  # Rachel voice
 
 # Load PDF
